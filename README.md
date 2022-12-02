@@ -1,6 +1,3 @@
-# Node Express app with nginx postgres nodemon dev cluster
-
-## Prerequisites
 
 Install [Docker](https://www.docker.com/) on your system.
 
